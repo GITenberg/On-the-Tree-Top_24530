@@ -1,0 +1,41 @@
+_repo: On-the-Tree-Top_24530
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+  - agent_name: Curtis, Jessie
+    gutenberg_agent_id: '26557'
+    url: http://www.gutenberg.org/2009/agents/26557
+covers:
+- cover_type: archival
+  image_path: 24530-h/images/color/backcover.jpg
+creator:
+  author:
+    agent_name: Bates, Clara Doty
+    birthdate: 1838
+    deathdate: 1895
+    gutenberg_agent_id: '26558'
+    url: http://www.gutenberg.org/2009/agents/26558
+description: ''
+gutenberg_issued: '2008-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picture books for children'
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Nursery rhymes'
+- !lcsh 'Fairy tales'
+title: On the Tree Top
+url: http://www.gutenberg.org/ebooks/24530
